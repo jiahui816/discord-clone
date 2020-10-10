@@ -1,8 +1,8 @@
 This is a Discord Clone Project
 
 Technology Used: 
-React-Redux
-Firebase (Google Authentication, Database for Messages)
+React-Redux,
+Firebase (Google Authentication, Database for Messages),
 Material-UI
 
 Try out the web app at > https://discord-clone-68bd4.web.app/
