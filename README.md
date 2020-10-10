@@ -1,3 +1,20 @@
+This is a Discord Clone Project
+
+Technology Used: 
+React-Redux
+Firebase (Google Authentication, Database for Messages)
+Material-UI
+
+Try out the web app at > https://discord-clone-68bd4.web.app/
+
+Login using your google account 
+Add a channel by clicking the add button on the left 
+Type in your desired channel name
+Start typing new message  
+
+To logout, simply click the profile picture/Avatar icon and it will log you out ! 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
