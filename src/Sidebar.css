@@ -83,3 +83,7 @@
 .sidebar__profileIcons > .MuiSvgIcon-root {
   padding: 10px;
 }
+
+.sidebar__avatar:hover {
+  cursor: pointer;
+}
